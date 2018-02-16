@@ -25,8 +25,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
-     inkscape:cx="9.278829"
+     inkscape:zoom="15.839192"
+     inkscape:cx="17.012607"
      inkscape:cy="15.554241"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -36,7 +36,8 @@
      inkscape:window-height="705"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:object-nodes="false">
     <inkscape:grid
        type="xygrid"
        id="grid4754" />
@@ -69,6 +70,13 @@
        id="path4766"
        d="m 12.117888,1044.9525 c 2.123495,2.207 3.893158,4.041 3.932652,4.0754 0.05799,0.051 0.807829,-0.7029 3.960731,-3.9823 2.139008,-2.2247 3.909248,-4.0745 3.934054,-4.1107 0.03701,-0.055 -1.244788,-0.066 -7.825788,-0.067 -4.329099,-8e-4 -7.8691024,0.015 -7.8667061,0.035 -3.7e-6,0.02 1.7416619,1.8425 3.8650571,4.0496 z"
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15546487;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.40173292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9382"
+       width="29.335505"
+       height="2.1743858"
+       x="1.6924505"
+       y="1034.7667" />
     <path
        style="fill:none;stroke:#4d4d4d;stroke-width:0.97735554px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.98039216"
        d="m 30.649147,1035.9121 -28.5713995,-0.01"
